@@ -1,0 +1,6 @@
+*.test
+test.xml
+*.coverprofile
+coverage.xml
+ginkgo.output
+webserver
